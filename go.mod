@@ -1,4 +1,4 @@
-module github.com/gilramir/miro-chinese-font-fix
+module github.com/gilramir/miro-chinese-font-fix-extension
 
 go 1.27.0
 
