@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "中文字形修正（适用于 Miro）"
+  },
+  "extDescription": {
+    "message": "让 Miro 白板上的中文以中文字形显示，而不是日文字形。与 Miro 官方无关。"
+  }
+}
